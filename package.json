@@ -1,0 +1,16 @@
+{
+  "name": "Ciku",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark theme inspired by the delicious fruit - Ciku.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ciku"
+  ],
+  "repository": "https://github.com/ciku/ciku-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
